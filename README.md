@@ -13,6 +13,7 @@ In woodworking every craftsman has a set of jigs that help them solve complex pr
 ## Machine Learning JIGS
 ## Analytics JIGS
 ## Deployment JIGS
+## Integration JIGS
 ## Voodoo JIGS
 
 Stay Tuned for more soon.
